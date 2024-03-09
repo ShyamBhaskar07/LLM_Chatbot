@@ -1,5 +1,5 @@
 # Create a Virtual Environment
-python create venv env
+python -m venv env
 # Install all required modules
 pip install -r requirements.txt
 
